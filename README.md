@@ -1,2 +1,2 @@
 # digiws
-Some stuff for our Digital Geographies Friends
+Some stuff for our Digital Geographriends
